@@ -1,0 +1,15 @@
+# Binaries
+inflection_engine
+drip_engine
+
+# Build Artifacts
+*.o
+*.out
+
+# Environment
+.venv/
+__pycache__/
+.DS_Store
+
+# Local Git config
+.gitconfig
