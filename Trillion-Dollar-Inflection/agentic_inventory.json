@@ -1,0 +1,32 @@
+{
+  "project": "Trillion-Dollar-Inflection",
+  "last_sync": "2026-03-18",
+  "architect": "Lauro Beck",
+  "capital_mapping": {
+    "JPMorgan_Tech_Spend": {
+      "budget": "$19.8B",
+      "focus": "Agentic Commerce / Always-on Treasury",
+      "mapped_module": "banking/jpm_paas_engine",
+      "synergy": "Replacing legacy COBOL with OpenClaw agents"
+    },
+    "NVIDIA_Inflection": {
+      "target": "$1T Revenue thru 2027",
+      "architecture": "Vera Rubin / HBM4",
+      "mapped_module": "compute/inference_inflection.cpp",
+      "metric": "Tokens per Watt optimization"
+    },
+    "IBM_Backbone": {
+      "fcf_guidance": "$15.7B",
+      "hardware": "z17 Mainframe (In-line AI)",
+      "mapped_module": "compute/big_blue_engine",
+      "yield_role": "Dividend foundation for Rio hardware goal"
+    }
+  },
+  "hardware_milestones": {
+    "MacBook_Pro_M3_Rio": {
+      "target_price": "R$ 9.499",
+      "status": "85% funded via JPM/IBM DRIP",
+      "breakeven_proj": "Q3 2026"
+    }
+  }
+}
